@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/KNNs4D><img src='https://4.bp.blogspot.com/-2uIFvbXUycM/WX8207n8WQI/AAAAAAAAI4Q/4p8d4IRfEkM4cfUSrPBtSo14XvHA9fLSQCLcBGAs/s640/sua-chua-nha-quan-7.jpg' width='500px'/><br/>Sửa chữa nhà trọn gói giá rẻ tại TPHCM</a>. Gọi ngay để được tư vấn<br/> Hotline 0938 263 268 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/KNNs4D'><img src='https://4.bp.blogspot.com/-2uIFvbXUycM/WX8207n8WQI/AAAAAAAAI4Q/4p8d4IRfEkM4cfUSrPBtSo14XvHA9fLSQCLcBGAs/s640/sua-chua-nha-quan-7.jpg' width='500px'/><br/>Sửa chữa nhà trọn gói giá rẻ tại TPHCM</a>. Gọi ngay để được tư vấn<br/> Hotline 0938 263 268 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
